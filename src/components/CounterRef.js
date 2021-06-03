@@ -14,6 +14,6 @@ function CounterRef() {
       <button onClick={handleClick}>{count.current}</button>
     </div>
   );
-}
+} 
 
 export default CounterRef;

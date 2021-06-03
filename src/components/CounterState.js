@@ -13,6 +13,6 @@ function CounterState() {
       <button onClick={handleClick}>{count}</button>
     </div>
   );
-}
+} 
 
 export default CounterState;
